@@ -2,6 +2,9 @@
 
 ## Demo
 ![Dome](https://raw.githubusercontent.com/y-hryk/YSLContainerViewController/master/sample.gif)
+
+![Dome](https://github.com/sasstudio/YSLContainerViewController/blob/master/expandedTabs.png)
+
 ## Requirement
 not support landscape
 ## Install
